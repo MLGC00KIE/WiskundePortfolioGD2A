@@ -11,7 +11,7 @@ html {
 }
 
 #container {
-    background-color: darkgrey;
+    background-color: aqua;
     display: grid;
     grid-template-columns: 200px auto;
     width: 100%;
